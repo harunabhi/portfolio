@@ -233,4 +233,38 @@ line-height: 28px;
 font-size: 30px;
 font-weight: 700;
 }
+.resume-container{
+    display: flex;
+    gap: 70px;
+}
+.resume-description {
+    color:  #757575;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px; 
+}
+.resume-item-tittle-institute{
+    color: #757575;
+font-size: 20px;
+font-weight: 600;
+
+}
+.resume-item-tittle{
+    color:  #474747;
+font-size: 25px;
+font-weight: 700;
+margin: 10px;
+}
+.resume-container{
+    margin: 30px;
+    /* text-align: center; */
+}
+.resume-item-tittle-institute{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
 
